@@ -51,7 +51,7 @@ Using the power query I replaced some values to calculate better.
 
 Created a Dax function
 ```powerbi
-COUNTA('youtube_data_united-states'[NAME])
+COUNTA(dataset_for_excel_powerbi[Name])
 ```
 
 #### Results/Findings
