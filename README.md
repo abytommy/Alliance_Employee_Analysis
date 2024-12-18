@@ -36,8 +36,14 @@ We performed the following tasks for the preparation phase:
 
 #### Exploratory Data Analysis
 
-This involved exploring the youtube dataset to answer questions, such as:
-1. 	What is the age distribution of employees in different departments? 
+This involved exploring the dataset_for_excel_powerbi to answer questions, such as:
+1. Demographic Analysis
+2. Salary and Experience
+3. Satisfaction and Performance
+4. Gender and Promotion Analysis
+5. Comparative Analysis
+6. Key Insights
+
 
 
 #### Data Analysis
