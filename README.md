@@ -14,9 +14,7 @@
 ## Project Overview
 This data analysis project provides insights into the alliance employee's dataset 
 
-
-![youtube pic](https://github.com/user-attachments/assets/cda4c954-b19d-4ee2-bd28-3df2281b8bd2)
-
+![Alliance image](https://github.com/user-attachments/assets/d17a0203-d9a6-4344-bfaf-bd5af52dba24)
 
 #### Data source
 The primary dataset used for this project is "dataset_for_excel_powerbi" from ChatGPT.
