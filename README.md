@@ -58,38 +58,35 @@ COUNTA(dataset_for_excel_powerbi[Name])
 
 The Analysis Results are Summarised as follows:
 
-- Top Channel by Potential Reach: T-Series (India) with 70.2 million.
+- Salaries for female employees are 15% lower than male employees in the same role within IT department.
 
-- Highest Engagement Rate: CarryMinati (India) with an ER of 0.092.
+- Employees not promoted in over 5 years show declining performance.
 
-- Total Channels: 100 channels.
+- Total number of employees: 10k.
 
-- Total Potential Reach: Approximately 1.4 billion.
+- Male employees are promoted at a 20% higher rate than female employees despite similar performance ratings.
 
-Most channels are from India and the US, with limited influence on specific topics despite their massive reach.
+-  Promoted employees have a higher likelihood of leaving if salary increases do not accompany the promotion.
+  
 
 #### Recommendation
 
 Based on the analysis, we recommend the following actions:
 
-- Engage High-Reach Channels: Convert large audiences (e.g., T-Series) into active engagement with interactive content.
+- Align promotions with competitive salary adjustments to improve retention.
 
-- Boost Engagement: Increase viewer interaction for channels like SET India through collaborations and targeted campaigns.
+- Invest in team-building activities and cross-functional projects to enhance collaboration across all departments.
 
-- Prioritize High-Engagement Influencers: Focus on influencers like CarryMinati for partnerships due to strong engagement.
+- Initiate targeted recruitment and mentorship programs to improve gender representation in the R&D department.
 
-- Explore New Markets: Expand into growing regions like Brazil and Mexico for global reach.
-
-- Promote Topic-Specific Content: Encourage content with a clear focus to improve brand targeting and audience engagement.
+- Introduce performance-based salary increments for experienced employees to boost morale and retention.
 
 #### Limitations
 
-- Low Engagement Data: Most channels have an engagement rate of zero, limiting insights into actual audience interaction and effectiveness.
+- The analysis shows relationships (e.g., between salary and satisfaction) but cannot prove causation without deeper investigation or controlled experiments
 
-- Lack of Topic Influence: Many channels are marked as "Didn't Influence," making it difficult to assess their specific impact or relevance in niche areas.
+- Missing records for key variables (e.g., satisfaction scores, years of experience) lead to biased conclusions.
 
-- Geographic Bias: The dataset is dominated by channels from India and the US, which may not reflect trends in other regions.
+- Personal circumstances (e.g., health, family issues) can affect metrics like performance or satisfaction but are not captured in the data.
 
-- Incomplete Information: Several channels lack country or topic details, reducing the accuracy of regional and content-specific analysis.
 
-- Potential Reach vs. Actual Impact: High reach does not necessarily translate into influence or engagement, limiting the usefulness of potential reach as a sole metric.
